@@ -69,6 +69,13 @@ The papers include analytical methods, protocols, reviews, and applications.
   circulating tumor
   cells](http://www.nature.com/nbt/journal/v30/n8/full/nbt.2282.html)
 
+### 2011
+
+- [Characterization of the single-cell transcriptional landscape by highly
+  multiplex RNA-seq](http://genome.cshlp.org/content/21/7/1160.long)
+- [Development and applications of single-cell transcriptome
+  analysis](http://www.nature.com/nmeth/journal/v8/n4s/full/nmeth.1557.html)
+
 ### 2009
 
 - [mRNA-Seq whole-transcriptome analysis of a single
