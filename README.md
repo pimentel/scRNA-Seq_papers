@@ -23,10 +23,19 @@ The papers include analytical methods, protocols, reviews, and applications.
 
 - __[Bayesian approach to single-cell differential expression
   analysis](http://www.nature.com/nmeth/journal/v11/n7/full/nmeth.2967.html)__
+- __[The dynamics and regulators of cell fate decisions are revealed by
+  pseudotemporal ordering of single
+  cells](http://www.nature.com/nbt/journal/v32/n4/full/nbt.2859.html)__
 - [Entering the era of single-cell transcriptomics in biology and
   medicine](http://www.nature.com/nmeth/journal/v11/n1/full/nmeth.2764.html)
+- [From single-cell to cell-pool transcriptomes: Stochasticity in gene
+  expression and RNA splicing](http://genome.cshlp.org/content/24/3/496.short)
+- [Full-length RNA-seq from single cells using
+  Smart-seq2](http://www.nature.com/nprot/journal/v9/n1/abs/nprot.2014.006.html)
 - [Massively Parallel Single-Cell RNA-Seq for Marker-Free Decomposition of
   Tissues into Cell Types](http://www.sciencemag.org/content/343/6172/776)
+- [The promise of single-cell
+  sequencing](http://www.nature.com/nmeth/journal/v11/n1/full/nmeth.2769.html)
 - [Quantitative assessment of single-cell RNA-sequencing
   methods](http://www.nature.com/nmeth/journal/v11/n1/full/nmeth.2694.html)
 - [Reconstruction of the Mouse Otocyst and Early Neuroblast Lineage at
@@ -35,14 +44,17 @@ The papers include analytical methods, protocols, reviews, and applications.
 - [Reconstructing lineage hierarchies of the distal lung epithelium using
   single-cell
   RNA-seq](http://www.nature.com/nature/journal/v509/n7500/full/nature13173.html)
+- [Single-cell RNA-seq highlights intratumoral heterogeneity in primary
+  glioblastoma](http://www.sciencemag.org/content/344/6190/1396.abstract)
 - [Single-cell RNA-seq reveals dynamic, random monoallelic gene expression in
   mammalian cells](http://www.sciencemag.org/content/343/6167/193.abstract)
+- [Single-cell RNA-seq reveals dynamic paracrine control of cellular
+  variation](http://www.nature.com/nature/journal/v510/n7505/full/nature13437.html)
 - [Single-Cell RNA Sequencing Reveals T Helper Cells Synthesizing Steroids De
   Novo to Contribute to Immune
   Homeostasis](http://www.cell.com/cell-reports/abstract/S2211-1247(14)00298-8)
-- __[The dynamics and regulators of cell fate decisions are revealed by
-  pseudotemporal ordering of single
-  cells](http://www.nature.com/nbt/journal/v32/n4/full/nbt.2859.html)__
+- [Quantitative single-cell RNA-seq with unique molecular
+  identifiers](http://www.nature.com/nmeth/journal/v11/n2/abs/nmeth.2772.html)
 
 ### 2013
 
@@ -50,13 +62,21 @@ The papers include analytical methods, protocols, reviews, and applications.
   experiments](http://www.nature.com/nmeth/journal/v10/n11/full/nmeth.2645.html)
 - __[Inferring the kinetics of stochastic gene expression from single-cell
   RNA-sequencing data](http://genomebiology.com/2013/14/1/R7)__
+- [Genetic programs in human and mouse early embryos revealed by single-cell
+  RNA sequencing](http://www.nature.com/nature/journal/v500/n7464/full/nature12364.html)
+- [RNA-sequencing from single
+  nuclei](http://www.pnas.org/content/110/49/19802.short)
 - [Single-Cell Analysis Reveals that Expression of Nanog Is Biallelic and
   Equally Variable as that of Other Pluripotency Factors in Mouse
   ESCs](http://www.cell.com/cell-stem-cell/abstract/S1934-5909(13)00155-0)
+- [Single-cell RNA-Seq profiling of human preimplantation embryos and embryonic
+  stem cells](http://www.nature.com/nsmb/journal/v20/n9/full/nsmb.2660.html)
 - [Single-cell sequencing-based technologies will revolutionize whole-organism
   science](http://www.nature.com/nrg/journal/v14/n9/full/nrg3542.html)
 - __[Smart-seq2 for sensitive full-length transcriptome profiling in single
   cells](http://www.nature.com/nmeth/journal/v10/n11/full/nmeth.2639.html)__
+- [Two methods for full-length RNA sequencing for low quantities of cells and
+  single cells](http://www.pnas.org/content/110/2/594.short)
 - [Quartz-Seq: a highly reproducible and sensitive single-cell RNA sequencing
   method, reveals non-genetic gene-expression
   heterogeneity](http://genomebiology.com/2013/14/4/R31)
